@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GameManager">
+    <Position X="4" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAEAAAAAAAAAAAIACQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovePelota">
+    <Position X="2" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MovePelota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="1" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAAAAAAAABAAAAAAAEAAAAAAAAgAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomNetworkManager">
+    <Position X="1.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\CustomNetworkManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="7.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMotor">
+    <Position X="8.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAqEAAAAEAACAQAAAFAAAAAAAAAQAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMotor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSetup">
+    <Position X="4.25" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAQCAAEAAAAAAAAAAACAAAAAAIAAiABBAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerShoot">
+    <Position X="11.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAACAABAAAAAgAAAAACAAAAAAAAAAQAAAAgAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerShoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerUI">
+    <Position X="12.5" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAAAAAAAAAAAABAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerWeapon">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

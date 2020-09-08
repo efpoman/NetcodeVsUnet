@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ButtonConnectToServer">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ButtonConnectToServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoInGameRequestSystem">
+    <Position X="2.75" Y="5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoInGameClientSystem">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController">
+    <Position X="0.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAIAAAAAAAIABAAAgAIAAAIBgAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HybridMainCameraFollowPlayerSystem">
+    <Position X="4.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAA=</HashCode>
+      <FileName>Assets\Scripts\HybridMainCameraFollowPlayerSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovementSystem">
+    <Position X="6.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAgAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\MovementSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovePelotaSystem">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\MovePelotaSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInputSendCommandSystem">
+    <Position X="2.75" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInputReceiveCommandSystem">
+    <Position X="2.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SamplePlayerInput">
+    <Position X="5.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAECAAAAAAAAAAAAQAIASAAAAAAAkAoAAAEQEA=</HashCode>
+      <FileName>Assets\Scripts\UI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreateBootstrap">
+    <Position X="16.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CreateBootstrap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisconnectSystem">
+    <Position X="19" Y="1.25" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="DisconnectSystem.DisconnectJob">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\DisconnectSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\DisconnectSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FpsCount">
+    <Position X="19" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAABAAAgAAAAAQAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FpsCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="16.5" Y="5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Game.InitGameComponent">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GoInGameServerSystem">
+    <Position X="16.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAABAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PingCount">
+    <Position X="20.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAACAAAAAAAAAAAABAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PingCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RTTCount">
+    <Position X="20.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\RTTCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Switch" BaseTypeListCollapsed="true">
+    <Position X="16.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Switch.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SwitchSystem">
+    <Position X="13.25" Y="1.25" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="SwitchSystem.State">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\SwitchSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="SwitchSystem.PlayType">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\SwitchSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="SwitchSystem.WorldType">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\SwitchSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAACiIAAEAAgQIAAAQAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\SwitchSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GoInGameRequest" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAICAAAAAAAAAACBEACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="PelotaComponent" BaseTypeListCollapsed="true">
+    <Position X="1" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PelotaComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="PlayerData" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAICAAAAAEAAAAAAAAAAAAECAQAIAAAIAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerData.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="PlayerInput" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAQIABIAIAAAABAACCBCACQABAAAAAAQQAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerInput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

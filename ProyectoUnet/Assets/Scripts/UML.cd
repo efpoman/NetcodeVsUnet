@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PingCount">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAACAAQAAAAAAAAABAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PingCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerWeapon">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerUI">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAADIABAAAAAAAAAAAAAABAAAAAAIAACA=</HashCode>
+      <FileName>Assets\Scripts\PlayerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerShoot">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgRABAAAACAABAAAAAgAAACACAAAAAADAAAQABIAgAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerShoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSetup">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAQCAAEAAAAAAAAAAACAAAAAAIAAiABBAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMotor">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACBAAEAqEAAAAEAACAQAAAFAAACAQAIAQAAAAUAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMotor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACAAAAAQAAAAAAAAAAAAAQABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAYQCAAAAAAAAABAAAAAAAEAAAAAiAAACAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovePelota">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MovePelota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="9.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAEAAAAAAAAAAAIAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FpsCount">
+    <Position X="13.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAABAAAgAAAAAQAAAAAAAAAABAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FpsCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnetNetworkManager">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQBAIAAACAAAAgAAAAAAAAAgCAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UnetNetworkManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
